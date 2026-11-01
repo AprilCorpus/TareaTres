@@ -1,0 +1,11 @@
+build
+mx.scratch
+!.settings
+Debug/
+Release/
+Project Backups/
+*\[*\]*
+*Autosaved*
+*.pdsprj.*
+*.pdsbak
+*.workspace
